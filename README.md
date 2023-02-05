@@ -18,8 +18,7 @@ Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencis
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
 [<img align="left" alt="Net_Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][Net_Core]
 [<img align="left" alt="Visual_Studio" width="26px" src="https://camo.githubusercontent.com/d38ffb5817f8cc5ca0625ea326347f74f26c17452d158aceda84789070d061df/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f352f35392f56697375616c5f53747564696f5f49636f6e5f323031392e7376672f3132303070782d56697375616c5f53747564696f5f49636f6e5f323031392e7376672e706e67" />][Visual_Studio]
-[<img align="left" alt="Azure" width="26px" src="[https://camo.githubusercontent.com/d38ffb5817f8cc5ca0625ea326347f74f26c17452d158aceda84789070d061df/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f352f35392f56697375616c5f53747564696f5f49636f6e5f323031392e7376672f3132303070782d56697375616c5f53747564696f5f49636f6e5f323031392e7376672e706e67](https://technofaq.org/wp-content/uploads/2021/11/Azure-logo.png.webp)" />][azure]
-
+[<img align="left" alt="Azure" width="26px" src="https://camo.githubusercontent.com/d38ffb5817f8cc5ca0625ea326347f74f26c17452d158aceda84789070d061df/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f352f35392f56697375616c5f53747564696f5f49636f6e5f323031392e7376672f3132303070782d56697375616c5f53747564696f5f49636f6e5f323031392e7376672e706e67](https://technofaq.org/wp-content/uploads/2021/11/Azure-logo.png.webp" />][azure]
 
 
 <br />
