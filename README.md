@@ -22,7 +22,8 @@ Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencis
 [<img align="left" alt="jira" width="52px" src="https://pbs.twimg.com/media/E8WiXEtXoAE_tW0.jpg" />][jira]
 [<img align="left" alt="tailwind" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" />][tailwindcss]
 
-[<img src="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" style="max-width: 100%;">][html].
+[<img src="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" height="20" data-canonical-src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" style="max-width: 100%;">][html].
+[<img src="https://camo.githubusercontent.com/1f14c9c472b21cf8790a4fb6914be3a3181e957ecc2b397775f06a989d20cb37/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS3" height="20" data-canonical-src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" style="max-width: 100%;">][css]
 <br />
 
 [flutter]: https://flutter.dev/
@@ -35,7 +36,8 @@ Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencis
 
 [tailwindcss]:https://tailwindcss.com/
 [html]:https://www.w3schools.com/html/default.asp
-
+[css]:
+https://www.w3schools.com/css/default.asp
 
 <br />
 <br />
