@@ -25,7 +25,7 @@ Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencis
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: (https://github.com/ayberk1414)
 [python]: https://www.python.org/
 
 
