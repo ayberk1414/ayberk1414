@@ -18,7 +18,7 @@ Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencis
 
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
 [<img align="left" alt="Net_Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][Net_Core]
-[<img align="left" alt="Visual_Studio" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png](https://i.ytimg.com/vi/uVHVZVdL8v0/maxresdefault.jpg)" />][Visual_Studio]
+[<img align="left" alt="Visual_Studio" width="26px" src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png](https://i.ytimg.com/vi/uVHVZVdL8v0/maxresdefault.jpg)])" />][Visual_Studio]
 
 
 
