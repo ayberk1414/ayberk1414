@@ -17,6 +17,7 @@ Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencis
 
 
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
+[<img align="left" alt="Net_Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][Net_Core]
 
 
 
@@ -24,6 +25,7 @@ Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencis
 
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
+[Net_Core]:https://learn.microsoft.com/tr-tr/aspnet/core/mvc/overview?view=aspnetcore-2.2
 
 
 
