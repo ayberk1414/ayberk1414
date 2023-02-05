@@ -5,9 +5,8 @@ Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencis
 
 
 
-[![GitHub tag](https://img.shields.io/github/tag/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/tags/)
 
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayberk1414)](https://github.com/anuraghazra/github-readme-stats)
