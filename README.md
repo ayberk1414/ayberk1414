@@ -20,10 +20,9 @@ Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencis
 [<img align="left" alt="Visual_Studio" width="26px" src="https://camo.githubusercontent.com/d38ffb5817f8cc5ca0625ea326347f74f26c17452d158aceda84789070d061df/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f352f35392f56697375616c5f53747564696f5f49636f6e5f323031392e7376672f3132303070782d56697375616c5f53747564696f5f49636f6e5f323031392e7376672e706e67" />][Visual_Studio]
 [<img align="left" alt="Azure" width="52px" src="https://technofaq.org/wp-content/uploads/2021/11/Azure-logo.png.webp" />][azure]
 [<img align="left" alt="jira" width="52px" src="https://pbs.twimg.com/media/E8WiXEtXoAE_tW0.jpg" />][jira]
-[<img align="left" alt="tailwind" width="52px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" />][tailwindcss]
+[<img align="left" alt="tailwind" width="26px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg" />][tailwindcss]
 
-
-
+[<img src="https://camo.githubusercontent.com/bfa71fe5e1eb3ca57a7e4ef9c6b2ca21414c4fdab27ac6861e211e7cfe8f7d9f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML5" height="50" data-canonical-src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" style="max-width: 100%;">][html].
 <br />
 
 [flutter]: https://flutter.dev/
@@ -35,7 +34,7 @@ Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencis
 [jira]:https://www.atlassian.com/software/jira
 
 [tailwindcss]:https://tailwindcss.com/
-
+[html]:https://www.w3schools.com/html/default.asp
 
 
 <br />
