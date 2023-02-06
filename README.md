@@ -1,7 +1,7 @@
 ### Hi there 👋
 Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencisiyim . SabancıDX sirketinde kısa donem stajımın ardından uzun dönem stajıma devam etmekdeyım. Erisilebilir her sey adlı bir fırmaya gönüllü olarak destek vermekdeyim. Stajimda Edoksis takımı olarak .Net Core MVC yapısında  olan uygulamaya yeni özellikler ekleyerek uygulamayı geliştirmekteyiz.
 
-<img height="180em" src="https://camo.githubusercontent.com/8a7caf243349c68847ab29ec5ddb5b9dffea9c07cf4e3761b3cc960d3c4b8112/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d686172756e64656d69726b6179612673686f775f69636f6e733d74727565267468656d653d64726163756c6126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ayberk1414&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;"> 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayberk1414&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
