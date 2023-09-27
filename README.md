@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Selam, Bandırma On Yedi Eylül üniverisitesinde dördüncü sınıf öğrencisiyim . SabancıDX sirketinde kısa donem stajımın ardından uzun dönem stajıma devam etmekdeyım. Erisilebilir her sey adlı bir fırmaya gönüllü olarak destek vermekdeyim. Stajimda Edoksis takımı olarak .Net Core MVC yapısında  olan uygulamaya yeni özellikler ekleyerek uygulamayı geliştirmekteyiz.
+[Merhaba, ben Bandırma On Yedi Eylül Üniversitesi'nden bu yıl mezun olan bir bilgisayar mühendisliği öğrencisiyim. Okul hayatım boyunca erişilebilir her şey adlı bir firma ile gönüllü olarak çalıştım ve engelli bireyler için teknolojik çözümler ürettim. Bu deneyim benim için çok değerli ve anlamlıydı. Bu alanda kendimi geliştirmek ve daha fazla katkı sağlamak istiyorum.
 ](https://www.linkedin.com/in/ayberkyaman/#:~:text=Hakk%C4%B1nda-,Merhaba%2C%20ben%20Band%C4%B1rma%20On%20Yedi%20Eyl%C3%BCl%20%C3%9Cniversitesi%27nden%20bu%20y%C4%B1l%20mezun%20olan,anlaml%C4%B1yd%C4%B1.%20Bu%20alanda%20kendimi%20geli%C5%9Ftirmek%20ve%20daha%20fazla%20katk%C4%B1%20sa%C4%9Flamak%20istiyorum.,-Merhaba%2C%20ben%20Band%C4%B1rma)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayberk1414&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
